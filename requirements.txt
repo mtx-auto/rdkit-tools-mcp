@@ -1,4 +1,4 @@
 mcp[cli]==2.0.0
 rdkit==2026.3.5
-numpy==2.5.2
+numpy==2.4.6
 uvicorn==0.52.4
